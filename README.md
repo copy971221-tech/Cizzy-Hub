@@ -1,4 +1,4 @@
-🚀 【一鍵啟動程式碼】
-複製下方代碼至你的執行器（Executor）即可享受極致體驗：
+🚀 **【一鍵啟動程式碼】**
+點擊下方程式碼區塊即可輕鬆複製：
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/copy971221-tech/Cizzy-Hub/refs/heads/main/Startup%20and%20loading.lua", true))()
+<pre><code>loadstring(game:HttpGet("https://raw.githubusercontent.com/copy971221-tech/Cizzy-Hub/refs/heads/main/Startup%20and%20loading.lua", true))()</code></pre>
