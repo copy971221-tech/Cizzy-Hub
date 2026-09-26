@@ -1,0 +1,11 @@
+$schema: https://gitbook.com
+site:
+  title: Cizzy Hub
+  structure:
+    - type: space
+      key: cizzy-hub-main
+      title: Cizzy Hub Main Space
+      path: /
+      default: true
+      content:
+        directory: .
